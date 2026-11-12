@@ -1,0 +1,1 @@
+{"name":"unopower-online","version":"1.0.0","private":true,"description":"UNOPOWER RPG multiplayer com matchmaking publico","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"},"engines":{"node":">=18"}}
